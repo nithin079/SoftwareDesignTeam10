@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nithi\\OneDrive\\Desktop\\Summer 2022\\Software Design\\project\\api\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj": {}
+    "C:\\Users\\venka\\Documents\\GitHub\\SoftwareDesignTeam10\\api\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nithi\\OneDrive\\Desktop\\Summer 2022\\Software Design\\project\\api\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj": {
+    "C:\\Users\\venka\\Documents\\GitHub\\SoftwareDesignTeam10\\api\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nithi\\OneDrive\\Desktop\\Summer 2022\\Software Design\\project\\api\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\venka\\Documents\\GitHub\\SoftwareDesignTeam10\\api\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj",
         "projectName": "CustomerAPI",
-        "projectPath": "C:\\Users\\nithi\\OneDrive\\Desktop\\Summer 2022\\Software Design\\project\\api\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj",
-        "packagesPath": "C:\\Users\\nithi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nithi\\OneDrive\\Desktop\\Summer 2022\\Software Design\\project\\api\\CustomerAPI\\CustomerAPI\\obj\\",
+        "projectPath": "C:\\Users\\venka\\Documents\\GitHub\\SoftwareDesignTeam10\\api\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj",
+        "packagesPath": "C:\\Users\\venka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\venka\\Documents\\GitHub\\SoftwareDesignTeam10\\api\\CustomerAPI\\CustomerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nithi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\venka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\nithi\\OneDrive\\Desktop\\Summer 2022\\Software Design\\project\\api\\CustomerAPI\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\nithi\\OneDrive\\Desktop\\Summer 2022\\Software Design\\project\\api\\CustomerAPI\\Repository\\Repository.csproj"
+              "C:\\Users\\venka\\Documents\\GitHub\\SoftwareDesignTeam10\\api\\CustomerAPI\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\venka\\Documents\\GitHub\\SoftwareDesignTeam10\\api\\CustomerAPI\\Repository\\Repository.csproj"
               }
             }
           }
@@ -59,12 +59,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.13, 5.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -73,21 +67,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nithi\\OneDrive\\Desktop\\Summer 2022\\Software Design\\project\\api\\CustomerAPI\\Repository\\Repository.csproj": {
+    "C:\\Users\\venka\\Documents\\GitHub\\SoftwareDesignTeam10\\api\\CustomerAPI\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nithi\\OneDrive\\Desktop\\Summer 2022\\Software Design\\project\\api\\CustomerAPI\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\venka\\Documents\\GitHub\\SoftwareDesignTeam10\\api\\CustomerAPI\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\nithi\\OneDrive\\Desktop\\Summer 2022\\Software Design\\project\\api\\CustomerAPI\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\nithi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nithi\\OneDrive\\Desktop\\Summer 2022\\Software Design\\project\\api\\CustomerAPI\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\venka\\Documents\\GitHub\\SoftwareDesignTeam10\\api\\CustomerAPI\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\venka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\venka\\Documents\\GitHub\\SoftwareDesignTeam10\\api\\CustomerAPI\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nithi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\venka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -136,18 +130,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.13, 5.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
