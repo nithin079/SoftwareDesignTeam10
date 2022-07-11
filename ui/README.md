@@ -1,3 +1,4 @@
+# SoftwareDesignTeam10
 # Software Design Fuel Prediction Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
@@ -25,24 +26,15 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-
-## Running .NET APP
-
-Run `dotnet run` to execute the application
-
-
 ### References/Resources
 
 Documentation:
   https://angular.io/docs
   https://getbootstrap.com/docs/4.0/getting-started/introduction/
-  https://docs.microsoft.com/en-us/aspnet/core/web-api/?WT.mc_id=dotnet-35129-website&view=aspnetcore-7.0
-  https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices
 Blogs:
   https://jasonwatmore.com/post/2019/06/10/angular-8-user-registration-and-login-example-tutorial
   https://www.smashingmagazine.com/2018/11/a-complete-guide-to-routing-in-angular/
   https://www.tektutorialshub.com/angular/angular-forms-fundamentals/
-  https://www.tutorialspoint.com/dotnet_core/dotnet_core_getting_started.htm
 
 
 
